@@ -12,6 +12,7 @@
 
 ## 📄 格式
 
+- 🌐 **在线阅读**：[sora-niimi.github.io/How-to-fly](https://sora-niimi.github.io/How-to-fly/)（GitHub Pages，精美排版）
 - **Markdown 原文**：[`如何在宿舍优雅地导管🛫.md`](如何在宿舍优雅地导管🛫.md)
 - **PDF 版**：[`如何在宿舍优雅地导管🛫.pdf`](如何在宿舍优雅地导管🛫.pdf)（Noto Sans SC 字体，A4 排版）
 
