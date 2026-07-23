@@ -8,8 +8,6 @@
 
 本文仅就笔者个人经验，尝试写些可供后人参考的建议
 
-（readme内容，多半为AI生成）
-
 ## 📄 格式
 
 - 🌐 **在线阅读**：[sora-niimi.github.io/How-to-fly](https://sora-niimi.github.io/How-to-fly/)
