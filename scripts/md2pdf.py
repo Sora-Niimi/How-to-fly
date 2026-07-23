@@ -339,51 +339,9 @@ HTML_TEMPLATE = f"""<!DOCTYPE html>
     }}
   }}
 
-  /* ==================== 屏幕预览提示条 ==================== */
-  .print-hint {{
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(135deg, #3a7bd5, #6c5ce7);
-    color: #fff;
-    text-align: center;
-    padding: 10px 20px;
-    font-size: 14px;
-    z-index: 9999;
-    box-shadow: 0 2px 12px rgba(0,0,0,0.15);
-  }}
-
-  .print-hint kbd {{
-    background: rgba(255,255,255,0.2);
-    padding: 2px 8px;
-    border-radius: 4px;
-    font-family: inherit;
-    border: 1px solid rgba(255,255,255,0.3);
-    margin: 0 3px;
-  }}
-
-  .print-hint strong {{
-    color: #fff;
-  }}
-
-  @media screen {{
-    .print-hint {{
-      display: block;
-    }}
-    body {{
-      padding-top: 50px;
-    }}
-  }}
 </style>
 </head>
 <body>
-
-<div class="print-hint">
-  🖨️  <strong>打印为 PDF：</strong>按 <kbd>Ctrl+P</kbd> → 目标另存为 PDF →
-  边距选<strong>"无"</strong> → 勾选<strong>"背景图形"</strong> → 保存
-</div>
 
 {html_body}
 
